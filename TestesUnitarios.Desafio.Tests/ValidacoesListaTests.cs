@@ -2,6 +2,8 @@ using TestesUnitarios.Desafio.Console.Services;
 
 namespace TestesUnitarios.Desafio.Tests;
 
+//TODO: Testar o código...
+
 public class ValidacoesListaTests
 {
     private ValidacoesLista _validacoes = new ValidacoesLista();
